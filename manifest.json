@@ -1,6 +1,6 @@
 {
-  "name": "School Management Demo",
-  "short_name": "SMS Demo",
+  "name": "Trading Academy & Software House",
+  "short_name": "Trading Academy",
   "description": "School Management System Demo",
   "start_url": "/School-Demo/",
   "display": "standalone",
